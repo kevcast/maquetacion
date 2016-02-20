@@ -1,0 +1,39 @@
+
+========== Semantic ===========
+
+aside => contenido externo o tangente(no relacionado directamente con el tema)
+article => pagina de contenido distincion, entidad/contenido de informacion independiente(relevancia de la informacion no se pierde por mas que se mueve)
+footer = > info de cierre
+
+line-heder = > 3 px mas que el tamaño de la fuente
+	1.3 recommender
+letter spacing, 
+word spacing
+
+========== Resolucion =========
+
+1024px en peru
+1260px
+cambia los pixels segun resolucion del disposivo que se quiere alcansar
+ejmp: si el de 1024 el ancho y la pantalla del dispositivo es mayor aparecera un scroll evitar esto 
+
+reset => reset css styles de los elemeteos que setea el navegador
+http://meyerweb.com/eric/tools/css/reset/
+
+normalize => pone estanderes a los elementos
+
+========== Inline ============
+
+polarizacion de elementos: inline(img) y block(div,ul)
+display inline : 2 propiedades inline y block (witdh y height)
+
+float => ssaca del flujo estatico malogra al padre
+
+
+Finaly ...Oh... 
+========== Responsive ========
+
+landscape : dispositivo horizontal
+
+break points 
+1024 800 600 320
