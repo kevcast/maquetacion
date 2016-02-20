@@ -103,3 +103,14 @@ body{
 .travelt:last-child{
     border-right: medium none;
 }
+
+.first{
+	width: 49.7%;
+	float: left;
+}
+
+.ui-content:after{
+  content:'';
+  display:block;
+  clear:both;
+}
